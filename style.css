@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding-top: 100px;
+}
+
+h1 {
+    color: #222;
+    font-size: 36px;
+}
+
+#count-el {
+    font-size: 60px;
+    margin: 20px 0;
+    color: #333;
+}
+
+button {
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#save-btn {
+    background-color: #2196F3;
+    color: white;
+}
+
+#save-el {
+    margin-top: 30px;
+    font-size: 20px;
+    color: #555;
+}
